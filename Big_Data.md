@@ -10,7 +10,8 @@
 We wanted to focus on the parallelization techniques for big data analysis, such as mapreduce or perhaps parallel DBMS.
 
 ## Presentations
-- Application of FDA High-Performance Integrated Virtual Environment (HIVE) Supercomputer to Analysis of Cardiac Safety Clinical Trials
+
+### Application of FDA High-Performance Integrated Virtual Environment (HIVE) Supercomputer to Analysis of Cardiac Safety Clinical Trials
 - Dustin McAfee
 - 15-20 minutes
 - Will be presenting with slides from a previous presentation,
@@ -21,3 +22,9 @@ We wanted to focus on the parallelization techniques for big data analysis, such
 - This presentation is available from a collaboration between the Center for Drug Evaluation and Research (FDA/CDER), the Division of Applied Regulatory Science (FDA/CDER/DARS), and 
     the Center for Biologics Evaluation and Research (FDA/CBER). The open source project is available at https://github.com/FDA/ecglib.
 - Will be ready 1/22.
+
+### Introduction to using UT's NICS ACF Computing Cluster
+- Trish Goedecke
+- 10-15 minutes
+- PowerPoint presentation on the basics of logging on and getting started using the cluster
+- This introduction will be ready 1/29. Hope to follow later in semester with more advanced use, ie, parallel processing.
