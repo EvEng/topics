@@ -7,7 +7,8 @@
 - Jesse Piburn
 
 ## Description
-We wanted to focus on the parallelization techniques for big data analysis, such as mapreduce or perhaps parallel DBMS.
+We wanted to focus on the techniques and technology stacks that are used to ingest, store, and compute large volumes of data
+
 
 ## General Topics / Technologies
 
