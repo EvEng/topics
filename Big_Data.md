@@ -9,6 +9,32 @@
 ## Description
 We wanted to focus on the parallelization techniques for big data analysis, such as mapreduce or perhaps parallel DBMS.
 
+## General Topics / Technologies
+Below are examples of 
+### Storage
+- HDFS
+- S3
+- HBase
+- OLTP vs OLAP
+- Apache Parquet
+- Apache Arrow
+
+### Compute
+- Hadoop MapReduce
+- Apache Spark
+- Apache Flink
+- Apache Hive
+
+### Messaging
+- Apache Kafka
+- ActiveMQ
+
+### Geospatial
+- Raster vs Vector
+- Geospatial Indexing
+- Cloud optimized geospatial data formats
+
+
 ## Presentations
 
 ### Application of FDA High-Performance Integrated Virtual Environment (HIVE) Supercomputer to Analysis of Cardiac Safety Clinical Trials
