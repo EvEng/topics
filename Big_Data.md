@@ -7,8 +7,7 @@
 - Jesse Piburn
 
 ## Description
-We wanted to focus on the techniques and technology stacks that are used to ingest, store, and compute large volumes of data
-
+We wanted to focus on the techniques and technology stacks that are used to ingest, store, and compute large volumes of data. Including but not limited to the following
 
 ## General Topics / Technologies
 
