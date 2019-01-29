@@ -10,7 +10,7 @@
 We wanted to focus on the parallelization techniques for big data analysis, such as mapreduce or perhaps parallel DBMS.
 
 ## General Topics / Technologies
-Below are examples of 
+
 ### Storage
 - HDFS
 - S3
