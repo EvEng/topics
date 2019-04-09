@@ -20,6 +20,9 @@
 
 ### Maria - Topic Modeling
 * Latent Dirichlet Allocation
+* LSA
+* pLSA
+* lda2vec
 
 ### Dakota - Undecided
 * Will decide once recommendations from Dr. Mockus are available.
